@@ -1,5 +1,5 @@
 
--- Tanay's Walmart Sales Data Analysis
+-- Minali's Walmart Sales Data Analysis
 
 SHOW databases;
 create database walmart_db; 
